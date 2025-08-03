@@ -1,0 +1,12 @@
+{
+    "id": "688ebd895309b53ff64c0dcf",
+    "name": "Vacation Goal",
+    "targetAmount": 10000,
+    "targetDate": "2025-12-01T00:00:00Z",
+    "balance": 0,
+    "created": "2025-08-03T04:38:17.3751649+03:00",
+    "transactionIds": null,
+    "tagIds": null,
+    "userId": "62a29c15f4605c4c9fa7f306",
+    "icon": "🏖️"
+}
